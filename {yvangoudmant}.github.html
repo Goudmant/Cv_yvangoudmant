@@ -30,11 +30,11 @@
 		<div class="tagline">Noob Dev | Code Noob | Linux Noob | Git Noob</div>
 		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
 		<div class="icons-social">
-			<a target="_blank" href="https://github.com/massartval"><i class="fab fa-github"></i></a>
+			<a target="_blank" href="https://github.com/Goudmant"><i class="fab fa-github"></i></a>
 			<!-- <a target="_blank" href="https://twitter.com/flexdinesh"><i class="fab fa-twitter"></i></a> -->
 			<!-- <a target="_blank" href="https://dev.to/flexdinesh"><i class="fab fa-dev"></i></a> -->
 			<!-- <a target="_blank" href="https://stackoverflow.com/story/flexdinesh"><i class="fab fa-stack-overflow"></i></a> -->
-			<a target="_blank" href="https://www.linkedin.com/in/valentin-massart-312996150"><i class="fab fa-linkedin"></i></a>
+			<a target="_blank" href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit"><i class="fab fa-linkedin"></i></a>
 			<!-- <a target="_blank" href="https://medium.com/@flexdinesh"><i class="fab fa-medium"></i></a> -->
 			<!-- <a target="_blank" href="https://www.freecodecamp.org"><i class="fab fa-free-code-camp"></i></a> -->
 			<!-- <a target="_blank" href="https://www.behance.net"><i class="fab fa-behance"></i></a> -->
