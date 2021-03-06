@@ -6,6 +6,10 @@
   list-style: none;
 }
 
+a#link {
+  color: #009EA9;
+}
+
 body {
   background-color: #F8F7F5;
   width: 100%;
@@ -88,8 +92,8 @@ h1, h2 {
 .section_grid {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 35% auto;
-      grid-template-columns: 35% auto;
+  -ms-grid-columns: 100% auto;
+      grid-template-columns: 100% auto;
 }
 
 .section_grid_contact {
