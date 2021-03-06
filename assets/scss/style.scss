@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    background-color: #e0e0ff;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color:#414554;
+    line-height: 1.7rem;
+    font-size: 13.5px;
+}
+
+h1, h2 {
+    font-family: 'Poiret One', cursive;
+    color: #db2b39;
+    line-height: 4rem;
+}
+
+.bandeau {
+    position:absolute;
+    height: 7rem;
+    background-color: #29335C;
+    top: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #e0e0ff;
+    width: 100%;
+    align-items: center;
+}
+
+.photo img {
+    width: 10rem;
+    border: solid 2px #e0e0ff;
+    border-radius: 100px;
+}
+
+.nom_fonction {
+    padding-inline-start: 2.5rem;
+    padding-inline-end: 21rem;
+    font-size: 140%;
+    color: rgb(255, 253, 218);
+    line-height: 0.7rem;
+}
+
+.container_principal {
+    width: 80%;
+    height: auto;
+    margin: 150px auto;
+    background-color: rgb(255, 253, 218);
+    padding: 4rem;
+    display: flex;
+}
+
+.flex_gauche {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding-inline-end: 2rem;
+}
+
+.section_grid {
+    display:grid;
+    grid-template-columns: 35% auto;
+}
+
+.section_grid_contact {
+    display:grid;
+    grid-template-columns: 16% auto;
+}
+.titre_grid {
+    grid-area: 1 / 1 / 2 / 3;
+    line-height: 2rem;
+}
+
+.icone {
+    justify-self: flex-start;
+}
+
+.flex_droit {
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    padding-inline-start: 2rem;
+    border-inline-start: solid 2px #29335C;
+}
+.section_grid_work {
+    display:grid;
+    grid-template-columns: 15% auto;
+}
+
+.section_grid_education {
+    display:grid;
+    grid-template-columns: 15% 15% auto;
+}
+
+.titre_grid_education {
+    grid-area: 1 / 1 / 2 / 4;
+    line-height: 2rem;
+}
