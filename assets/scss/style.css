@@ -49,6 +49,25 @@ h1, h2 {
           align-items: center;
 }
 
+.bandeauend {
+  position: absolute;
+  height: 7rem;
+  background-color: #009EA9;
+  top: 4rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #F8F7F5;
+  width: 100%;
+}
+
 .photo img {
   width: 10rem;
   border: solid 2px #F8F7F5;
