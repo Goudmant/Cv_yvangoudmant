@@ -17,8 +17,12 @@ body {
     line-height: 1.7rem;
     font-size: 13.5px;
 }
-
-h1, h2 {
+h1 {
+    font-family: 'Nunito', sans-serif;
+    color: #F8F7F5;
+    line-height: 4rem;
+}
+h2 {
     font-family: 'Nunito', sans-serif;
     color: #db2b39;
     line-height: 4rem;
